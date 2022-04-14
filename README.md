@@ -1,2 +1,2 @@
 # basicCalculator
-basic Calculator using Html, Css and JavaScript with ardk n light mode.
+basic Calculator using Html, Css and JavaScript with dark n light mode.
